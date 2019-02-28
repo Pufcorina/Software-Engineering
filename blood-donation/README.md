@@ -1,5 +1,5 @@
 # BloodyFast
-<a href="https://github.com/Pufcorina/UBB/tree/master/Semester4/Software%20Engineering/blood-donation/Documentation">User manual</a>
+<a href="https://github.com/Pufcorina/Software-Engineering/blob/master/blood-donation/Documentation/README.md">User manual</a>
 
 # Members:
 
